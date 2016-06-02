@@ -40,6 +40,8 @@ import javax.media.jai.RenderedImageAdapter;
 
 public class GrayScaleImage {
 
+
+
     @TargetApi(Build.VERSION_CODES.KITKAT)
     public static Bitmap ConvertToGrayscale(Bitmap bitmap) {
 

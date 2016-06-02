@@ -173,4 +173,10 @@ public class MainActivity extends Activity implements View.OnClickListener {
         }
     }
 
+ //   public native String helloJNI();
+//
+//    static {
+//        System.loadLibrary("HelloJNI");
+//    }
+
 }
